@@ -14,7 +14,7 @@
 
   <h2 class="emoji">🚀 Features</h2>
   <ul>
-    <li>🎮 Mouse-controlled <strong>grid interaction</strong></li>
+    <li>🖱️ Mouse-controlled <strong>grid interaction</strong></li>
     <li>🧠 Supports 3 major algorithms:
       <ul>
         <li><strong>BFS</strong> (Breadth-First Search)</li>
