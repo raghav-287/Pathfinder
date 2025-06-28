@@ -122,7 +122,7 @@ pathfinder.exe</code></pre>
   </ul>
 
   <h2 class="emoji">🧠 Credits</h2>
-  <p>Built with 💻, ☕, and occasional compiler rage by <strong><a href="https://github.com/raghav-287" target="_blank">Raghav Singla</a></strong>.</p>
+  <p>Built by <strong><a href="https://github.com/raghav-287" target="_blank">Raghav Singla</a></strong>.</p>
 
   <h2 class="emoji">📄 License</h2>
   <p>MIT License (or add yours here)</p>
