@@ -3,46 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Pathfinder Visualization</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #1a73e8;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 10px;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-    }
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-    .emoji {
-      font-family: Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif;
-    }
-  </style>
 </head>
 <body>
 
@@ -123,9 +83,6 @@ pathfinder.exe</code></pre>
 
   <h2 class="emoji">🧠 Credits</h2>
   <p>Built by <strong><a href="https://github.com/raghav-287" target="_blank">Raghav Singla</a></strong>.</p>
-
-  <h2 class="emoji">📄 License</h2>
-  <p>MIT License (or add yours here)</p>
 
 </body>
 </html>
