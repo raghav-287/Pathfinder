@@ -29,7 +29,7 @@
   </ul>
 
   <h2 class="emoji">🖼️ Demo (optional)</h2>
-  <p><em>(Insert GIF or screenshot here)</em></p>
+  <p><em>()</em></p>
 
   <h2 class="emoji">📦 Requirements</h2>
   <ul>
