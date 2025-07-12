@@ -28,8 +28,8 @@
     <li>📏 Displays coordinates, algorithm, and path length in the GUI</li>
   </ul>
 
-  <h2 class="emoji">🖼️ Demo (optional)</h2>
-  <p><em>()</em></p>
+  <h2 class="emoji">🖼️ Demo Video</h2>
+  <p><em>(https://youtu.be/FuNMmnnWNPU)</em></p>
 
   <h2 class="emoji">📦 Requirements</h2>
   <ul>
